@@ -29,7 +29,7 @@ The Computer Shop Management System is a Java-based application designed to mana
 - **Database Management**: 
   - Store and retrieve all data (customers, products, quotations) in a database.
   - Backup and restore database.
- `<! -- 
+ 
 ## Project Structure
 computer-shop/
 │
@@ -62,7 +62,7 @@ computer-shop/
 │ │ └── resources/
 │ └── test/
 │ └── java/
---!>`
+
 
 ## Prerequisites
 
